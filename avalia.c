@@ -2,6 +2,23 @@
 #include <stdbool.h>
 int main()
 {
+    // FUNÇÃO 1
+void servicoSpaPes(float preco)
+{
+    printf("O valor do servico Spa dos Pes custa R$ %.2f\n", preco);
+}
+
+// FUNÇÃO 2
+void servicoSpaMaos(float preco)
+{
+    printf("O valor do servico Spa das Maos custa R$ %.2f\n", preco);
+}
+
+// FUNÇÃO 3
+void servicoManicure(float preco)
+{
+    printf("O valor do servico Manicure custa R$ %.2f\n", preco);
+}
     // Tipos de Dados Utilizados (char, float e int)
     char nome[61];
     float spa_pes = 150.00;
