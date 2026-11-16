@@ -1,2 +1,3 @@
-Ana Carolina Pizon Novais
-José Diomar Machado Costa
+Avaliações Práticas da disciplina Paradigmas de Programação 2026.2
+
+Alunos: Ana Carolina Pizon Novais e José Diomar Machado Costa
